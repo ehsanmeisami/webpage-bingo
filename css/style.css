@@ -118,8 +118,8 @@ a:focus, a:hover {
 }
 
 .section {
-    padding-top: 9rem;
-    padding-bottom: 9rem;
+    padding-top: 6rem;
+    padding-bottom: 2rem;
 }
 
 .section-sm {
@@ -771,7 +771,7 @@ a:focus, a:hover {
   About us section
 ==================================================================*/
 .about {
-  padding: 100px 0;
+  padding: 10px 0;
   background: #fff;
 }
 .about .btn-about {
@@ -872,10 +872,7 @@ a:focus, a:hover {
 /*=================================================================
   Contact
   ==================================================================*/
-.contact-us {
-    padding-top: 9rem;
-    padding-bottom: 9rem;
-}
+
 
 .contact-form {
   margin-bottom: 40px;
@@ -1285,8 +1282,6 @@ a:focus, a:hover {
   Our Team
 ==================================================================*/
 .team {
-    padding-top: 9rem;
-    padding-bottom: 9rem;
   padding-bottom: 70px;
   background: #F6F6F6;
 }
