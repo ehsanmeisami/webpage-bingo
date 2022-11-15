@@ -109,10 +109,6 @@ a:focus, a:hover {
   margin-top: 50px;
 }
 
-.section {
-  padding: 100px 0;
-}
-
 .btn:focus {
   color: #ddd;
 }
@@ -122,7 +118,8 @@ a:focus, a:hover {
 }
 
 .section {
-  padding: 100px 0;
+    padding-top: 9rem;
+    padding-bottom: 9rem;
 }
 
 .section-sm {
@@ -810,7 +807,7 @@ a:focus, a:hover {
   About us 2 section
 ==================================================================*/
 .about-2 {
-  background: #F7F7F7;
+ /* background: #F7F7F7;*/
 }
 .about-2 .checklist {
   padding-left: 30px;
@@ -876,7 +873,8 @@ a:focus, a:hover {
   Contact
   ==================================================================*/
 .contact-us {
-  padding: 100px 0 50px 0;
+    padding-top: 9rem;
+    padding-bottom: 9rem;
 }
 
 .contact-form {
@@ -1179,6 +1177,9 @@ a:focus, a:hover {
 /*=================================================================
   Services section 2
 ==================================================================*/
+.service-2 {
+  background: #F7F7F7;
+}
 .service-2 .service-item {
   border: 1px solid #eee;
   margin-bottom: 30px;
@@ -1284,7 +1285,8 @@ a:focus, a:hover {
   Our Team
 ==================================================================*/
 .team {
-  padding: 100px 0;
+    padding-top: 9rem;
+    padding-bottom: 9rem;
   padding-bottom: 70px;
   background: #F6F6F6;
 }
